@@ -8,3 +8,4 @@ See following blog series for more details:
  - RackMate T2 build: [https://open.substack.com/pub/veverak/p/test_rack-rackmate-t2-build](https://open.substack.com/pub/veverak/p/test_rack-rackmate-t2-build?r=5b4yla&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
  - Designing CAD parts: [https://open.substack.com/pub/veverak/p/test_rack-cad-designs](https://open.substack.com/pub/veverak/p/test_rack-cad-designs?r=5b4yla&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
  - PDU and PSU: [https://veverak.substack.com/p/test_rack-psu-and-pdu](https://open.substack.com/pub/veverak/p/test_rack-psu-and-pdu?r=5b4yla&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+ - Unit: [https://veverak.substack.com/p/test_rack-unit](https://open.substack.com/pub/veverak/p/test_rack-unit?r=5b4yla&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
